@@ -1,2 +1,1 @@
-# Ignore generated release archives
-Release v*/sp2k2-win-x64-*.zip
+# Release ZIP files are tracked via Git LFS (see .gitattributes)
